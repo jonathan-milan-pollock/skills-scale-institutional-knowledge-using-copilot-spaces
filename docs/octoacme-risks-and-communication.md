@@ -13,6 +13,11 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+## Ownership & Accountability
+- Every risk and dependency must have one directly responsible owner.
+- Confirm roles and escalation ownership using the [RACI / Ownership Matrix](octoacme-raci-template.md).
+- If ownership changes, update the risk register and communicate in the next status update.
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
@@ -30,6 +35,7 @@ Weekly Status Template:
 - Next steps:
 - Risks & blockers:
 - Ask / decisions needed:
+- Decision log updates:
 
 Incident Communication
 - Triage summary
@@ -40,3 +46,8 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Decision Logging Standard
+- Log high-impact decisions (scope, timeline, staffing, risk acceptance) in the [Decision Log](octoacme-decision-log-template.md).
+- Use a unique decision ID in communications when requesting approval or raising escalation.
+- Include rationale and revisit trigger to make future handoffs and retrospectives easier.

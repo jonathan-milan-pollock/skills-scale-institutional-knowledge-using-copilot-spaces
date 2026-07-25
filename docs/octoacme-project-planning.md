@@ -13,8 +13,14 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+5. Confirm Definition of Ready (DoR) for intake and sprint entry
+6. Identify dependencies and integration points
+7. Create release plan and milestone map
+
+## Planning Outputs (minimum)
+- Completed [RACI / Ownership Matrix](octoacme-raci-template.md)
+- Initial [Decision Log](octoacme-decision-log-template.md) entry for scope, timeline, and tradeoff decisions
+- [Definition of Ready Checklist](octoacme-definition-of-ready-checklist.md) approved by PM + PdM + delivery lead
 
 ## Backlog Item Template
 - Title:
@@ -27,8 +33,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Sprint / Iteration Planning
 - Timebox planning to agreed sprint length
-- Pull items that meet DoD and have clear acceptance criteria
+- Pull items that meet DoR and have clear acceptance criteria
 - Ensure team capacity is respected
+- Log material scope or sequencing decisions in the Decision Log
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
@@ -39,5 +46,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
+- [ ] RACI / ownership matrix completed for core workstreams
 - [ ] Definition of Done documented
+- [ ] Definition of Ready checklist completed
+- [ ] Initial decision log entries captured
 - [ ] Initial test plan / QA approach drafted

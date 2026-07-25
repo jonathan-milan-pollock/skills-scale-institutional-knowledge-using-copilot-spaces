@@ -16,6 +16,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
 
+## Decision & Change Tracking
+- Record material scope, architecture, timeline, and risk decisions in the [Decision Log](octoacme-decision-log-template.md).
+- Include decision references in PRs when changes alter approved scope or release timing.
+- Reconfirm owners in the [RACI / Ownership Matrix](octoacme-raci-template.md) when team composition changes.
+
 ## Quality & Testing
 - Unit tests for new logic
 - Integration tests where applicable
@@ -33,8 +38,16 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
 
+## Handoff Readiness During Execution
+- Track production readiness tasks before code-complete, not after release freeze.
+- Keep runbooks, support notes, and monitoring updates in sync with feature delivery.
+- Use the [Handoff / Operational Readiness Checklist](octoacme-handoff-operational-readiness-checklist.md) for release candidates.
+
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Decision log updated for major scope/timeline changes
+- [ ] RACI ownership reviewed at milestone boundaries
+- [ ] Handoff / operational readiness checklist started before release

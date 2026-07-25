@@ -25,8 +25,19 @@ Applies to all cross-functional projects that deliver product features, services
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
+- Definition of Ready checklist
+- Decision Log
+- RACI / Ownership Matrix
 - Risk Register
+- Handoff / Operational Readiness checklist
 - Retrospective notes and action items
+
+## Governance Standards
+- Every active project must have a named owner for scope, delivery, and release readiness.
+- Use a project-level [RACI / Ownership Matrix](octoacme-raci-template.md) for major workstreams and decisions.
+- Capture key approvals, tradeoffs, and reversals in a [Decision Log](octoacme-decision-log-template.md).
+- Use standard artifact names (`project-charter`, `decision-log`, `risk-register`, `release-notes`) to keep handoffs consistent.
+- Store project artifacts in one source of truth (project repo `docs/` folder or linked workspace).
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
@@ -43,4 +54,9 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
+- Copy and tailor templates for each project:
+  - [Definition of Ready Checklist](octoacme-definition-of-ready-checklist.md)
+  - [RACI Template](octoacme-raci-template.md)
+  - [Decision Log Template](octoacme-decision-log-template.md)
+  - [Handoff / Operational Readiness Checklist](octoacme-handoff-operational-readiness-checklist.md)
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.

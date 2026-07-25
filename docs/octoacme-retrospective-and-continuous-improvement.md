@@ -21,6 +21,11 @@ After each sprint, release, or important milestone. Also after incidents.
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
 
+## Decision Follow-through
+- Review key decisions from the [Decision Log](octoacme-decision-log-template.md): what worked, what should change, and what to retire.
+- Confirm whether ownership defined in the [RACI / Ownership Matrix](octoacme-raci-template.md) matched actual execution.
+- Feed learnings into the next planning cycle and the [Definition of Ready Checklist](octoacme-definition-of-ready-checklist.md).
+
 ## Example Action Item Template
 - Title:
 - Description:
@@ -31,3 +36,4 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Include operational handoff outcomes in retros after each release using the [Handoff / Operational Readiness Checklist](octoacme-handoff-operational-readiness-checklist.md).
