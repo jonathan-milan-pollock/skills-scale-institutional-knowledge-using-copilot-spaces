@@ -26,6 +26,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- Role Handoffs & Ownership Checklist
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
@@ -43,4 +44,5 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
+- Use the [Role Handoffs & Ownership Checklist](octoacme-role-handoffs-and-ownership-checklist.md) to name owners and collaborators for each lifecycle stage.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.

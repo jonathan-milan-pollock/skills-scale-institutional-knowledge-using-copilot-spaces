@@ -34,6 +34,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 3: Sponsor-level escalation for business-impacting issues
 
 ## Execution Checklist
+- Use the [Role Handoffs & Ownership Checklist](octoacme-role-handoffs-and-ownership-checklist.md) when confirming owners for blockers, quality evidence, and release readiness inputs.
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled

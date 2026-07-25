@@ -14,6 +14,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Role handoffs and named owners confirmed via the [Role Handoffs & Ownership Checklist](octoacme-role-handoffs-and-ownership-checklist.md)
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
