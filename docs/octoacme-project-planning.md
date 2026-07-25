@@ -36,6 +36,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
+- Use the [Role Handoffs & Ownership Checklist](octoacme-role-handoffs-and-ownership-checklist.md) to confirm owners, collaborators, and evidence for each planning artifact.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed

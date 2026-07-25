@@ -35,6 +35,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Use the [Role Handoffs & Ownership Checklist](octoacme-role-handoffs-and-ownership-checklist.md) to confirm named owners for planning deliverables
 
 ## Decision Gate
 Move to planning when:

@@ -26,3 +26,4 @@ Projects move through a defined lifecycle: **Initiation → Planning → Executi
 | [Release and Deployment](octoacme-release-and-deployment.md) | Process for releasing, deploying, verifying, and announcing completed work |
 | [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | How to run retrospectives and turn learnings into actionable improvements |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Definitions of the core roles used across OctoAcme projects |
+| [Role Handoffs and Ownership Checklist](octoacme-role-handoffs-and-ownership-checklist.md) | Reusable template for naming owners, collaborators, and evidence across lifecycle stages |

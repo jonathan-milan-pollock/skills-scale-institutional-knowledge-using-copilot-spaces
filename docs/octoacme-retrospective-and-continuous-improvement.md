@@ -20,6 +20,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Revisit the [Role Handoffs & Ownership Checklist](octoacme-role-handoffs-and-ownership-checklist.md) if action items reveal unclear ownership between lifecycle stages
 
 ## Example Action Item Template
 - Title:

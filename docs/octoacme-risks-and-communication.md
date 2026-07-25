@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Use the [Role Handoffs & Ownership Checklist](octoacme-role-handoffs-and-ownership-checklist.md) to confirm owners for approvals, communications, and risk evidence.
 
 ## Communication Templates
 Weekly Status Template:
